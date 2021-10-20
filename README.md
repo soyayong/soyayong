@@ -2,7 +2,7 @@
 - 🧑 Nick name, Soya Yong
 - 👀 I’m interested in cycling, read book & drawing
 - 🌱 I’m currently learning web develop using React & ES6
-- 💞️ I’m looking to collaborate on web development programmer
+- 💞️ I’m looking to collaborate on web development programmer and Data Science
 - 📫 How to reach me with
 - ✉ email : soyayong@gmail.com
 - Facebook : soya yong https://www.facebook.com/soyayong
